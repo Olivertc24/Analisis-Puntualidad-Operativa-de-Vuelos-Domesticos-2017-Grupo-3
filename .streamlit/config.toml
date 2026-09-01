@@ -1,0 +1,16 @@
+# Tema visual del aplicativo — paleta "Pista".
+# Los colores replican los definidos en src/stats_logic.py para que la interfaz
+# y los graficos formen un unico sistema visual.
+[theme]
+base = "dark"
+primaryColor = "#2E9E7B"
+backgroundColor = "#0F1214"
+secondaryBackgroundColor = "#161B1F"
+textColor = "#ECEFF1"
+font = "sans serif"
+
+[server]
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,26 @@
+{
+    "name": "Puntualidad operativa de vuelos domesticos 2017",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    },
+    "updateContentCommand": "pip install -r requirements.txt",
+    "postAttachCommand": {
+        "server": "streamlit run app.py --server.enableCORS false --server.enableXsrfProtection false"
+    },
+    "portsAttributes": {
+        "8501": {
+            "label": "Aplicativo Streamlit",
+            "onAutoForward": "openPreview"
+        }
+    },
+    "forwardPorts": [
+        8501
+    ]
+}

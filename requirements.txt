@@ -1,0 +1,10 @@
+# Dependencias del aplicativo de analisis de puntualidad operativa de vuelos.
+# Se declaran sin fijar version para facilitar el despliegue, salvo donde el
+# proyecto depende de una funcionalidad concreta.
+
+streamlit>=1.49      # Marco del aplicativo web
+pandas>=2.0          # Manipulacion de datos en el ETL
+duckdb>=0.10         # Motor analitico OLAP sobre Parquet
+pyarrow>=14.0        # Lectura y escritura del formato columnar Parquet
+plotly>=5.18         # Graficos interactivos
+numpy>=1.24          # Operaciones vectorizadas de apoyo

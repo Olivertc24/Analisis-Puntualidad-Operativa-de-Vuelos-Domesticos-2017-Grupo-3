@@ -1,5 +1,7 @@
 ![Puntualidad operativa de vuelos domésticos](assets/banner_puntualidad.png)
 
+### ▶ Aplicativo en vivo: **[puntualidad-vuelos-grupo3.streamlit.app](https://puntualidad-vuelos-grupo3.streamlit.app)**
+
 # Puntualidad y regularidad operativa de vuelos domésticos (julio–septiembre de 2017)
 
 Investigación estadística descriptiva sobre **33.121 vuelos programados** en una red
@@ -263,6 +265,16 @@ streamlit run app.py
 
 El Data Lake viene incluido en el repositorio, de modo que **el aplicativo funciona sin
 descargar nada más**.
+
+### Aplicativo publicado
+
+El aplicativo está desplegado en Streamlit Community Cloud y es accesible sin instalar
+nada:
+
+**https://puntualidad-vuelos-grupo3.streamlit.app**
+
+Se actualiza solo: cada `push` a la rama `main` vuelve a construir la aplicación. Los
+detalles del despliegue están en la [guía de despliegue](DESPLIEGUE.md).
 
 ### 4. (Opcional) Reconstruir la base desde cero
 

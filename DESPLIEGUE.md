@@ -6,7 +6,12 @@ estos pasos debe ejecutarlos el titular de la cuenta.
 
 ---
 
-## 1. Aplicativo web en Streamlit Community Cloud
+## 1. Aplicativo web en Streamlit Community Cloud ✅ publicado
+
+**https://puntualidad-vuelos-grupo3.streamlit.app**
+
+El aplicativo está desplegado y funcionando. Se reconstruye solo con cada `push` a
+la rama `main`.
 
 ### Configuración del despliegue
 

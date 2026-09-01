@@ -1,0 +1,78 @@
+Ruta,Ciudad de origen,Ciudad de destino,Regimen,Orden de regimen,Aeronave,N operados,N puntuales,Minutos de demora
+OVB - ABA,Novosibirsk,Abakan,Salida puntual,1,Cessna 208 Caravan,5,5,0
+NUX - HMA,Novy Urengoy,Khanty-Mansiysk,Salida puntual,1,Cessna 208 Caravan,4,4,0
+ULY - RTW,Ulyanovsk,Saratov,Demora leve,3,Cessna 208 Caravan,4,4,24
+VKO - BZK,Moscow,Bryansk,Demora minima,2,Sukhoi Superjet-100,77,77,227
+VKO - BZK,Moscow,Bryansk,Demora severa,5,Sukhoi Superjet-100,6,0,1069
+SVO - LED,Moscow,St. Petersburg,Demora leve,3,Airbus A321-200,5,5,32
+LED - DME,St. Petersburg,Moscow,Demora leve,3,Airbus A321-200,12,12,79
+LED - VKO,St. Petersburg,Moscow,Demora leve,3,Airbus A321-200,11,11,72
+CNN - MJZ,Neryungri,Mirnyj,Demora severa,5,Cessna 208 Caravan,5,0,976
+DME - LED,Moscow,St. Petersburg,Demora severa,5,Airbus A321-200,8,0,1572
+DME - EGO,Moscow,Belgorod,Demora minima,2,Sukhoi Superjet-100,23,23,69
+VKO - JOK,Moscow,Yoshkar-Ola,Salida puntual,1,Cessna 208 Caravan,2,2,0
+LED - SVO,St. Petersburg,Moscow,Demora leve,3,Airbus A321-200,11,11,72
+LED - SVO,St. Petersburg,Moscow,Salida puntual,1,Airbus A321-200,6,6,0
+SVX - KGP,Yekaterinburg,Kogalym,Demora leve,3,Cessna 208 Caravan,4,4,25
+PEE - SVX,Perm,Yekaterinburg,Demora severa,5,Sukhoi Superjet-100,5,0,1060
+PEE - SVX,Perm,Yekaterinburg,Salida puntual,1,Sukhoi Superjet-100,2,2,0
+LED - DME,St. Petersburg,Moscow,Salida puntual,1,Airbus A321-200,2,2,0
+LED - VKO,St. Petersburg,Moscow,Demora minima,2,Airbus A321-200,72,72,199
+OVB - ABA,Novosibirsk,Abakan,Demora severa,5,Cessna 208 Caravan,7,0,1299
+NUX - HMA,Novy Urengoy,Khanty-Mansiysk,Demora leve,3,Cessna 208 Caravan,4,4,29
+AER - EGO,Sochi,Belgorod,Demora severa,5,Cessna 208 Caravan,5,0,1052
+SVO - LED,Moscow,St. Petersburg,Salida puntual,1,Airbus A321-200,11,11,0
+KJA - UIK,Krasnoyarsk,Ust Ilimsk,Demora minima,2,Cessna 208 Caravan,50,50,151
+ULY - RTW,Ulyanovsk,Saratov,Salida puntual,1,Cessna 208 Caravan,4,4,0
+UCT - UFA,Ukhta,Ufa,Demora minima,2,Cessna 208 Caravan,47,47,123
+UCT - UFA,Ukhta,Ufa,Demora leve,3,Cessna 208 Caravan,6,6,37
+DME - LED,Moscow,St. Petersburg,Demora minima,2,Airbus A321-200,96,96,288
+VKO - LED,Moscow,St. Petersburg,Demora minima,2,Airbus A321-200,77,77,208
+VKO - LED,Moscow,St. Petersburg,Demora severa,5,Airbus A321-200,6,0,1122
+VKO - BZK,Moscow,Bryansk,Demora leve,3,Sukhoi Superjet-100,4,4,25
+OVB - ABA,Novosibirsk,Abakan,Demora minima,2,Cessna 208 Caravan,45,45,137
+SVX - KGP,Yekaterinburg,Kogalym,Demora severa,5,Cessna 208 Caravan,5,0,1092
+UCT - UFA,Ukhta,Ufa,Salida puntual,1,Cessna 208 Caravan,3,3,0
+LED - VKO,St. Petersburg,Moscow,Demora severa,5,Airbus A321-200,5,0,1040
+ULY - RTW,Ulyanovsk,Saratov,Demora severa,5,Cessna 208 Caravan,7,0,1437
+BZK - DME,Bryansk,Moscow,Demora severa,5,Sukhoi Superjet-100,7,0,1396
+AER - EGO,Sochi,Belgorod,Demora minima,2,Cessna 208 Caravan,52,52,155
+DME - LED,Moscow,St. Petersburg,Demora leve,3,Airbus A321-200,8,8,57
+LED - DME,St. Petersburg,Moscow,Demora minima,2,Airbus A321-200,102,102,295
+OVB - ABA,Novosibirsk,Abakan,Demora leve,3,Cessna 208 Caravan,5,5,35
+KJA - UIK,Krasnoyarsk,Ust Ilimsk,Demora severa,5,Cessna 208 Caravan,5,0,997
+BZK - DME,Bryansk,Moscow,Salida puntual,1,Sukhoi Superjet-100,4,4,0
+DME - EGO,Moscow,Belgorod,Demora severa,5,Sukhoi Superjet-100,6,0,1172
+VKO - LED,Moscow,St. Petersburg,Demora leve,3,Airbus A321-200,6,6,39
+KJA - UIK,Krasnoyarsk,Ust Ilimsk,Salida puntual,1,Cessna 208 Caravan,2,2,0
+PEE - SVX,Perm,Yekaterinburg,Demora leve,3,Sukhoi Superjet-100,2,2,13
+NUX - HMA,Novy Urengoy,Khanty-Mansiysk,Demora minima,2,Cessna 208 Caravan,48,48,136
+NUX - HMA,Novy Urengoy,Khanty-Mansiysk,Demora severa,5,Cessna 208 Caravan,6,0,1235
+CNN - MJZ,Neryungri,Mirnyj,Salida puntual,1,Cessna 208 Caravan,1,1,0
+ULV - SVO,Ulyanovsk,Moscow,Demora minima,2,Sukhoi Superjet-100,47,47,132
+SVO - LED,Moscow,St. Petersburg,Demora minima,2,Airbus A321-200,127,127,346
+SVX - KGP,Yekaterinburg,Kogalym,Demora minima,2,Cessna 208 Caravan,53,53,150
+AER - EGO,Sochi,Belgorod,Salida puntual,1,Cessna 208 Caravan,5,5,0
+UCT - UFA,Ukhta,Ufa,Demora severa,5,Cessna 208 Caravan,6,0,1127
+LED - SVO,St. Petersburg,Moscow,Demora minima,2,Airbus A321-200,133,133,401
+ULV - SVO,Ulyanovsk,Moscow,Demora leve,3,Sukhoi Superjet-100,6,6,37
+VKO - LED,Moscow,St. Petersburg,Salida puntual,1,Airbus A321-200,4,4,0
+ULV - SVO,Ulyanovsk,Moscow,Demora severa,5,Sukhoi Superjet-100,6,0,1197
+BZK - DME,Bryansk,Moscow,Demora leve,3,Sukhoi Superjet-100,7,7,47
+DME - LED,Moscow,St. Petersburg,Salida puntual,1,Airbus A321-200,11,11,0
+VKO - JOK,Moscow,Yoshkar-Ola,Demora severa,5,Cessna 208 Caravan,6,0,1234
+VKO - BZK,Moscow,Bryansk,Salida puntual,1,Sukhoi Superjet-100,5,5,0
+LED - DME,St. Petersburg,Moscow,Demora severa,5,Airbus A321-200,7,0,1422
+CNN - MJZ,Neryungri,Mirnyj,Demora minima,2,Cessna 208 Caravan,51,51,140
+BZK - DME,Bryansk,Moscow,Demora minima,2,Sukhoi Superjet-100,73,73,213
+DME - EGO,Moscow,Belgorod,Salida puntual,1,Sukhoi Superjet-100,1,1,0
+PEE - SVX,Perm,Yekaterinburg,Demora minima,2,Sukhoi Superjet-100,53,53,148
+VKO - JOK,Moscow,Yoshkar-Ola,Demora leve,3,Cessna 208 Caravan,3,3,18
+VKO - JOK,Moscow,Yoshkar-Ola,Demora minima,2,Cessna 208 Caravan,51,51,145
+SVO - LED,Moscow,St. Petersburg,Demora severa,5,Airbus A321-200,10,0,1910
+LED - VKO,St. Petersburg,Moscow,Salida puntual,1,Airbus A321-200,5,5,0
+LED - SVO,St. Petersburg,Moscow,Demora severa,5,Airbus A321-200,4,0,798
+KJA - UIK,Krasnoyarsk,Ust Ilimsk,Demora leve,3,Cessna 208 Caravan,5,5,35
+CNN - MJZ,Neryungri,Mirnyj,Demora leve,3,Cessna 208 Caravan,5,5,32
+ULV - SVO,Ulyanovsk,Moscow,Salida puntual,1,Sukhoi Superjet-100,3,3,0
+ULY - RTW,Ulyanovsk,Saratov,Demora minima,2,Cessna 208 Caravan,47,47,139

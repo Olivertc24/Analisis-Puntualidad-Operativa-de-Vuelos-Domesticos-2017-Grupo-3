@@ -1,0 +1,39 @@
+# --- Bases de datos --------------------------------------------------------
+# La base cruda de Kaggle (109 MB) y la base normalizada intermedia no se
+# versionan: se reconstruyen ejecutando los scripts de "Base de datos/".
+travel.sqlite
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# El Data Lake Parquet SI se versiona (menos de 12 MB), para que el
+# aplicativo sea autocontenido. Por eso "data/" no aparece en esta lista.
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# --- Entornos y editores ---------------------------------------------------
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# --- Salidas temporales ----------------------------------------------------
+*.log
+.ipynb_checkpoints/
+
+# --- Tableau -------------------------------------------------------------
+# Archivos temporales de recuperacion que Tableau deja junto al libro.
+*.twbr
+.~*
+
+# La extraccion Hyper se reconstruye con Tableau/construir_hyper.py y
+# ademas viaja dentro del .twbx, asi que no se versiona por separado.
+*.hyper

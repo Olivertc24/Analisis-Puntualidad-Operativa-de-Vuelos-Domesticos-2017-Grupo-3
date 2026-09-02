@@ -1,5 +1,7 @@
 ![Puntualidad operativa de vuelos domésticos](assets/banner_puntualidad.png)
 
+### 📊 Tablero en vivo: **[Tableau Public](https://public.tableau.com/app/profile/oliver.triveno/viz/Puntualidad_Operativa_Vuelos_2017/1_Coberturadelaprogramacion)**
+
 ### ▶ Aplicativo en vivo: **[puntualidad-vuelos-grupo3.streamlit.app](https://puntualidad-vuelos-grupo3.streamlit.app)**
 
 # Puntualidad y regularidad operativa de vuelos domésticos (julio–septiembre de 2017)

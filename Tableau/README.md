@@ -1,5 +1,7 @@
 # Tablero de Tableau — Puntualidad operativa de vuelos domésticos, 2017
 
+### 📊 Ver el tablero en línea: **[Tableau Public](https://public.tableau.com/app/profile/oliver.triveno/viz/Puntualidad_Operativa_Vuelos_2017/1_Coberturadelaprogramacion)**
+
 Tablero ejecutivo que acompaña al aplicativo de Streamlit. Tres páginas, doce
 hojas, construidas **enteramente por código** a partir del Data Lake del
 proyecto.

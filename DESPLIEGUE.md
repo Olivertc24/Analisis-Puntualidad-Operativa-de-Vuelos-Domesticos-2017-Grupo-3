@@ -44,7 +44,9 @@ los registros de construcción, reiniciarla o eliminarla. Se reconstruye sola co
 
 ---
 
-## 2. Tablero en Tableau Public
+## 2. Tablero en Tableau Public ✅ publicado
+
+**https://public.tableau.com/app/profile/oliver.triveno/viz/Puntualidad_Operativa_Vuelos_2017/1_Coberturadelaprogramacion**
 
 ### Estado de los componentes en este repositorio
 
